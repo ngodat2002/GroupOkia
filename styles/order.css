@@ -1,0 +1,42 @@
+.containerr{
+  font-size: 18px;
+  margin-right: 20px;
+  color: #384158;
+
+}
+.form-control1{
+  width: 300px;
+  height: 40px;
+  border-radius: 3px;
+}
+.form-group1{
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+.form-check1{
+  margin-left: 100px;
+}
+.form-control3{
+  width: 600px;
+}
+.btn-outline-info1{
+  margin-left: 250px;
+  margin-bottom: 30px;
+  border: #555555 ridge 2px;
+}
+.inputt
+{
+  width: 30px;
+}
+.contron{
+  width: 150px;
+  margin-left: 34px;
+  border-radius: 3px;
+  border-color: #a5a5a5;
+}
+.totall{
+  float: right;
+  margin-right: 400px;
+  margin-top: 15px;
+  font-size: 24px;
+}
